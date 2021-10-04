@@ -23,4 +23,4 @@ Rename both the files as ```svhn_train.mat``` and ```svhn_test.mat``` respective
 Store the files in the outermost folder with the following folder structure ```Datasets/svhn_train.mat``` and ```Datasets/svhn_test.mat```
 
 ## Results
-I could achieve an accuracy of ```88%``` on the test data.
+I could achieve an accuracy of **88%** on the test data.
